@@ -13,5 +13,9 @@ Have nodejs and npm already installed.
 --> npm install
 ```
 ```
+--> bower install
+```
+
+```
 --> gulp server --> wil launch the app in the browser. 
 ```

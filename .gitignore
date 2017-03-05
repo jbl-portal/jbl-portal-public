@@ -1,4 +1,5 @@
-bower_modules
-node_modules
+.DS_Store
+bower_modules/
+node_modules/
 dist/*
 .tmp/*

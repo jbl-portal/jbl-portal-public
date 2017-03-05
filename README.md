@@ -3,11 +3,15 @@ Jbl Portal Public site
 # Installation 
 Have nodejs and npm already installed. 
 
-```-->  npm install -g gulp bower
 ```
-```--> cd project 
+-->  npm install -g gulp bower
 ```
-```-->  npm install
 ```
-```--> gulp server --> launch the app the browser. 
+--> cd project 
+```
+```
+-->  npm install
+```
+```
+--> gulp server --> launch the app the browser. 
 ```
